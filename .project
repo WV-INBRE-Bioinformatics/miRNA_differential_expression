@@ -1,0 +1,11 @@
+export KEYWORDS="srnaseq,deseq"
+export PIPELINE="srnaseq"
+export PROJECT="travis20180117151534"
+export STEP=0
+export COLLABORATORS="travis,denvir,primerano"
+export REFERENCES="none"
+export CATEGORY="srnaseq"
+export MODULES="fastqc"
+export PROJECT_DIR="/home/smalkaram/Projects/travis20180117151534"
+export DATA_DIR="/home/smalkaram/Projects/travis20180117151534/raw_data/file_links"
+export ALL_FILE_LIST="/home/smalkaram/Projects/travis20180117151534/ALL_FILE_LIST"
